@@ -1,0 +1,5 @@
+/* 只想让文章正文的段落缩进 */
+/* .post-content 是常见的文章内容容器的 class，具体名称可能因主题而异 */
+.post-content p {
+  text-indent: 2em;
+}
